@@ -4,14 +4,16 @@
 En arrivant ici vous marquez votre intérêt pour apprendre le javascript au travers du framework p5js.
 
 ### installation
-Cette application `https://desktop.github.com/` vous permettra de récupérer ce cours sur votre ordinateur.
+Pour suivre ce cours sur *windows* il vous faudra installer _Debian_ (installation via windows store)
+Dans la console Debian
+* `curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -`
+* `sudo apt-get install -y curl git nodejs`
 
-Une fois installée et lancée ajouter le repo 
-
-    `https://github.com/oogre/ESA-BXL-AN1.git`
-
-Ou dans un terminal après avoir installer l'utilitaire git
+Pour suivre ce cours sur *osx*
+* `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``
+* `brew install git`
+* 
+Dans un terminal après avoir installer l'utilitaire git
 
     `git clone https://github.com/oogre/ESA-BXL-AN1.git`
-
 
