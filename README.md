@@ -9,7 +9,7 @@ Dans la console Debian
 * `curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -`
 * `sudo apt-get install -y curl git nodejs`
 
-Pour suivre ce cours sur *osx*
+Pour suivre ce cours sur *osx* dans le _terminal_ tapez
 * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * `brew install git`
 * `brew install node`
