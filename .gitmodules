@@ -1,0 +1,3 @@
+[submodule "p5/exemples/theNatureOfCode"]
+	path = p5/exemples/theNatureOfCode
+	url = https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js.git
