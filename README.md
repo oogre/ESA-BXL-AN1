@@ -10,10 +10,13 @@ Dans la console Debian
 * `sudo apt-get install -y curl git nodejs`
 
 Pour suivre ce cours sur *osx*
-* `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``
+* `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * `brew install git`
-* 
-Dans un terminal après avoir installer l'utilitaire git
+* `brew install node`
+* `sudo npm install -g n`
+* `sudo n stable`
+
+Dans les les deux cas vous téléchargerez tout le contenu de ce cours comme ceci :
 
     `git clone https://github.com/oogre/ESA-BXL-AN1.git`
 
