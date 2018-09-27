@@ -1,6 +1,5 @@
-ESA-BXL-AN1
-=======
-##Atelier programmation ######
+# ESA-BXL-AN1
+## Atelier programmation
 
 En arrivant ici vous marquez votre intérêt pour apprendre le javascript au travers du framework p5js.
 
