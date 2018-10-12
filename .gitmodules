@@ -1,3 +1,12 @@
 [submodule "p5/exemples/theNatureOfCode"]
 	path = p5/exemples/theNatureOfCode
 	url = https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js.git
+[submodule "p5/exemples/gallery"]
+	path = p5/exemples/gallery
+	url = https://github.com/slowizzm/p5js_gallery.git
+[submodule "p5/exemples/ex-p5"]
+	path = p5/exemples/ex-p5
+	url = https://github.com/randomqweasdzxc/ex-p5.js.git
+[submodule "p5/exemples/ex-p5.2"]
+	path = p5/exemples/ex-p5.2
+	url = https://github.com/azorahaifreelancer/p5.git
