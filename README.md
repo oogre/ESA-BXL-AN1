@@ -29,6 +29,7 @@ Dans les les deux cas télécharge tout le contenu de ce cours comme ceci :
 Afin de travailler proprement installe _http-server_
 
     `npm install http-server -g`
+    `npm install p5-manager -g`
 
 
 

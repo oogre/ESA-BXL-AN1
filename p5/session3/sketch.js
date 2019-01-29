@@ -29,10 +29,17 @@ function draw() {
 
 	text(frameCount, 10, 80);
 
-	mesUs = mesUs + "u";
+
+	var alphabet = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM ";
+	var charId = random(0, alphabet.length);
+	charId = round(charId);
+	mesUs = mesUs + alphabet.charAt(charId);
 	if(frameCount % 100 == 0){
 		mesUs = mesUs + "\n";
 	}
+
+
+
 	text("F"+mesUs+"ck", 10, 100);
 }
 
